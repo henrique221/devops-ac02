@@ -1,0 +1,10 @@
+Vimos que o software é parte de um sistema computacional mais abrangente e que a Análise de Sistemas é a atividade de identificar os problemas do domínio, apresentar alternativas de soluções e o estudo da viabilidade de cada uma delas. Uma vez que se tenha feito a análise do sistema computacional, e delimitado o escopo do software, os requisitos do software devem ser analisados e especificados.
+A análise e especificação de requisitos de software envolve as atividades de determinar os objetivos de um software e as restrições associadas a ele. Ela deve também estabelecer o relacionamento entre estes objetivos e restrições e a especificação precisa do software.
+
+A análise e especificação dos requisitos de software deve ser vista como uma sub-atividade da análise de sistemas. Normalmente ela é iniciada juntamente com a análise do sistema, podendo se estender após a elaboração do documento de especificação do sistema e do planejamento do desenvolvimento, quando serão refinados os requisitos do software.
+
+Análise e especificação são atividades inter-dependentes e devem ser realizadas conjuntamente. A análise é o processo de observação e levantamento dos elementos do domínio no qual o sistema será introduzido. Deve-se identificar  as pessoas, atividades, informações do domínio para que se possa decidir o que deverá ser informatizado ou não. Pessoas e as atividades que não serão informatizadas deverão ser consideradas entidades externas ao software.
+
+A especificação é a descrição sistemática e abstrata do que o software deve fazer, a partir daquilo que foi analisado. Ela apresenta a solução de como os problemas levantados na análise serão resolvidos pelo software do sistema computacional. Visa descrever de maneira sistemática quais as propriedades funcionais são necessárias para resolver o problema do domínio. A especificação é também a forma de comunicação sistemática entre analistas e projetistas do software.
+
+O objetivo da definição dos requisitos é especificar o que o sistema deverá fazer e determinar os critérios de validação que serão utilizados para  que se possa avaliar se o sistema cumpre o que foi definido.
