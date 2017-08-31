@@ -1,0 +1,52 @@
+Teste de configuração
+Testa se o software funciona no hardware que ele será instalado.
+
+Teste de instalação
+Testa se o software instala como planejado em diferentes hardwares e sob diferentes condições como pouco espaço  de memória, interrupções de rede, interrupções na instalação, etc.
+
+Teste de integridade
+Testa a resistência do software à falhas (robustez).
+
+Teste de Segurança
+Testa se o sistema e os dados são acessados de maneira segura apenas pelo autor das ações.
+
+Teste funcional
+Testa os requisitos funcionais, as funções e os casos de uso. A aplicação faz o que deveria fazer?
+
+Teste de unidade
+Testa um componente isolado ou classe do sistema.
+
+Teste de integração
+Testa se um ou mais componentes combinados funcionam de maneira satisfatória. Há quem diga que o teste de integração é composto por vários testes de unidade.
+
+Teste de volume
+Testa o comportamento do sistema operando com o volume “normal”  de dados  e transações envolvendo o banco de dados durante um longo período de tempo.
+
+Teste de performance
+O teste de performance se divide em 3 tipos:
+
+Teste de carga
+Testa o software  sob as condições normais de uso. Ex.: tempo de resposta, número de transações por minuto, usuários simultâneos, etc.
+Teste de stress
+Testa o software sob condições extremas de uso. Grande volume de transações e usuários simultâneos. Picos excessivos de carga em curtos períodos de tempo.
+Teste de estabilidade
+Testa se o sistema se mantém funcionando de maneira satisfatória após um período de uso.
+Clique aqui para ver nosso post sobre teste de performance.
+
+Teste de usabilidade
+Teste focado na experiência do usuário, consistência da interface, layout, acesso às funcionalidades, etc.
+
+Clique aqui e veja nosso post sobre teste de usabilidade.
+
+Testes de caixa branca e caixa preta
+Basicamente, teste de caixa branca envolve o código e o de caixa-preta, não.
+
+Clique aqui e veja nosso post que explica esses conceitos de maneira detalha.
+
+Teste de regressão
+Reteste de um sistema ou componente para verificar se alguma modificação recente causou algum efeito indesejado e para certificar que o sistema ainda atende aos requisitos.
+
+Teste de manutenção
+Testa se a mudança de ambiente não interferiu no funcionamento do sistema.
+
+Clique aqui e veja nosso post sobre testes de manutenção.
