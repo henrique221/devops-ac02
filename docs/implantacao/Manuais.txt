@@ -1,0 +1,18 @@
+Procedimentos Operacionais e Instruções de Trabalho são instrumentos de padronização
+de processos, que permitem a padronização e o gerenciamento do Sistema de
+Gestão de Processos dentro da universidade.
+O Procedimento Operacional é uma descrição das atividades envolvidas no fluxo do
+processo de trabalho, ou seja, é um roteiro padronizado sobre as operações do processo.
+Já a Instrução de Trabalho (IT) é uma descrição detalhada de atividades específicas,
+produtivas e operacionais. É usualmente utilizada para descrição de atividades
+técnicas, tendo por característica, portanto, ser um padrão técnico.
+Embora muito parecidos, POs e ITs possuem finalidades distintas e, na maioria das vezes,
+complementares. Isso porque os POs são voltados para padronização do fluxo do
+processo, enquanto que as ITs instruem sobre a execução de atividades específicas.
+Alguns processos organizacionais podem ser padronizados com o uso de POs, outros
+com uso de ITs, ou ainda, utilizando ambos os padrões.
+POs e ITs são documentos estáveis, mas assim como os processos podem mudar,
+seja por adaptação ou melhoria, os procedimentos e as instruções também devem
+estar em constante adaptação, caminhando junto aos processos.
+Em um sistema hierárquico de documentação, as Instruções de Trabalho estariam logo
+abaixo dos Procedimentos Operacionais
